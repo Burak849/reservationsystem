@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\reservation-system-client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\reservation-system-client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\App.js",
+              "RelativeDocumentMoniker": "ReservationSystem\\reservation-system-client\\src\\App.js",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\App.js",
+              "RelativeToolTip": "ReservationSystem\\reservation-system-client\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-15T13:46:05.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ReservationSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\Program.cs",
+              "RelativeToolTip": "ReservationSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:19:16.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
