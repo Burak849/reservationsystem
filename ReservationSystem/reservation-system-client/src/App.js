@@ -3,6 +3,7 @@ import axios from 'axios';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import ReservationList from './components/ReservationList';  // Örnek bir bileşen
 import ReservationForm from './components/ReservationForm';  // Başka bir bileşen
+import HomePage from "./pages/HomePage"; // Dosya yolunu ayarlayın
 
 const App = () => {
     const [reservations, setReservations] = useState([]);
@@ -20,13 +21,16 @@ const App = () => {
 
     return (
         <Router>
-            <div className="App">
-                <h1>Reservation System</h1>
                 <Routes>
-                    <Route path="/" element={<ReservationList reservations={reservations} />} />
+                    {/* Ana sayfa rotası */}
+                    <Route path="/" element={<HomePage />} />
+
+                    {/* Rezervasyon listesi rotası */}
+                    <Route path="/reservations" element={<ReservationList reservations={reservations} />} />
+
+                    {/* Yeni rezervasyon ekleme formu rotası */}
                     <Route path="/add" element={<ReservationForm />} />
                 </Routes>
-            </div>
         </Router>
     );
 };
