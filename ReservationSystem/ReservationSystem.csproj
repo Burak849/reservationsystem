@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <Folder Include="ReservationSystem.Api\Helpers\" />
-    <Folder Include="reservation-system-client\src\media\" />
     <Folder Include="ReservationSystem.Api\Routers\" />
   </ItemGroup>
 

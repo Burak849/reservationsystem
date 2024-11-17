@@ -1,27 +1,22 @@
 ﻿import React from "react";
-import PreLoginNavbar from "../components/PreLoginNavbar"; // Assuming Navbar.js is in the same directory
-import "../App.css"; // General styles
+import PreLoginNavbar from "../components/PreLoginNavbar";
+import "../App.css"; 
 
 function HomePage() {
     return (
-        <div className="HomePage">
-            <PreLoginNavbar />
-            {/* Insert Navbar here */}
+        <html>
+            <head>
+                <script src="https://kit.fontawesome.com/db4729b060.js" crossorigin="anonymous"></script>
+            </head>
+            <body>
+                <div className="HomePage">
+                    <PreLoginNavbar />
 
-            <main className="main-content">
-                <h2>Your Reservation Journey Starts Here</h2>
-                <p>
-                    Easily book reservations for hotels, restaurants, and events. Just a few clicks away!
-                </p>
-                <button
-                    className="cta-button"
-                    onClick={() => alert("Redirecting to Reservations Page...")}
-                >
-                    Start Reservation
-                </button>
 
-            </main>
-        </div>
+
+                </div>
+            </body>
+        </html>
     );
 }
 

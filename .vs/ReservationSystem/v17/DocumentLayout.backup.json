@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\reservation-system-client\\src\\components\\preloginnavbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\reservation-system-client\\src\\components\\preloginnavbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\reservation-system-client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\reservation-system-client\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\reservation-system-client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\reservation-system-client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\reservation-system-client\\src\\components\\user_navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\reservation-system-client\\src\\components\\user_navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\reservation-system-client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\reservation-system-client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\rezervasyon\\reservationsystem\\reservationsystem\\reservation-system-client\\src\\pages\\homepage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E012CDB5-3EC3-44B9-8DB3-801269795F4E}|ReservationSystem\\ReservationSystem.csproj|solutionrelative:reservationsystem\\reservation-system-client\\src\\pages\\homepage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "App.js",
-              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\App.js",
-              "RelativeDocumentMoniker": "ReservationSystem\\reservation-system-client\\src\\App.js",
-              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\App.js",
-              "RelativeToolTip": "ReservationSystem\\reservation-system-client\\src\\App.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-15T13:46:05.009Z",
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\index.css",
+              "RelativeDocumentMoniker": "ReservationSystem\\reservation-system-client\\src\\index.css",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\index.css",
+              "RelativeToolTip": "ReservationSystem\\reservation-system-client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-16T12:13:55.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\Program.cs",
-              "RelativeDocumentMoniker": "ReservationSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\Program.cs",
-              "RelativeToolTip": "ReservationSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:19:16.26Z",
+              "Title": "PreLoginNavbar.js",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\components\\PreLoginNavbar.js",
+              "RelativeDocumentMoniker": "ReservationSystem\\reservation-system-client\\src\\components\\PreLoginNavbar.js",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\components\\PreLoginNavbar.js",
+              "RelativeToolTip": "ReservationSystem\\reservation-system-client\\src\\components\\PreLoginNavbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-15T20:29:34.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_Navbar.js",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\components\\User_Navbar.js",
+              "RelativeDocumentMoniker": "ReservationSystem\\reservation-system-client\\src\\components\\User_Navbar.js",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\components\\User_Navbar.js",
+              "RelativeToolTip": "ReservationSystem\\reservation-system-client\\src\\components\\User_Navbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-15T20:08:03.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\App.css",
+              "RelativeDocumentMoniker": "ReservationSystem\\reservation-system-client\\src\\App.css",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\App.css",
+              "RelativeToolTip": "ReservationSystem\\reservation-system-client\\src\\App.css",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-15T19:54:25.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.js",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\pages\\HomePage.js",
+              "RelativeDocumentMoniker": "ReservationSystem\\reservation-system-client\\src\\pages\\HomePage.js",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\rezervasyon\\ReservationSystem\\ReservationSystem\\reservation-system-client\\src\\pages\\HomePage.js",
+              "RelativeToolTip": "ReservationSystem\\reservation-system-client\\src\\pages\\HomePage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-15T19:52:32.654Z",
               "EditorCaption": ""
             }
           ]
