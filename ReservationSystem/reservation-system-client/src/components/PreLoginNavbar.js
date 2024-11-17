@@ -5,7 +5,7 @@ import NavbarFooter from '../media/pngnavbarfooter.png';
 
 const PreLoginNavbar = () => {
     return (
-        <nav className="bg-transparent border-gray-200 dark:bg-transparent pt-16">
+        <nav className="bg-transparent border-gray-200 dark:bg-transparent pt-16 pt-4 sm:pt-8 lg:pt-16 sticky top-0 z-50">
             <div className="max-w-screen-xl mx-auto px-4 flex items-center justify-between relative">
 
 
